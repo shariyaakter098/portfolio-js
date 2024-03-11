@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(230, 219, 228);
+}
+
+
+
+.flax-item i{
+    font-size: 3rem;
+}
+
+.contact-me-03 i{
+    font-size: 4rem;
+}
+i{
+    font-size: 3rem;
+   margin-bottom: 3rem;
+   margin-top: 2rem;
+}
+
+/* form-area */
